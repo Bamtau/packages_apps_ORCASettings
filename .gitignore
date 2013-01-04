@@ -56,3 +56,5 @@ src/com/xylon/settings/fragments/GeneralUI.java
 src/com/xylon/settings/fragments/NavRingTargets.java
 
 *.java
+
+*.java
